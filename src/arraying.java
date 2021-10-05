@@ -19,6 +19,9 @@ public class arraying {
         System.out.println("3) Exit program");
         System.out.println("******************************************");
 
+
+
+
         int x = in.nextInt();
                 if (x == 1) {
                     System.out.println("Option 1");
